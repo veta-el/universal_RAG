@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==1.26.4
+pynndescent==0.5.13
+python-dotenv==1.0.1
+ollama==0.4.7
+nltk==3.9.1
+pymorphy2==0.9.1
+transformers==4.47.0
+pyspellchecker==0.8.2
+
